@@ -6,7 +6,7 @@ public class Classs01 {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        System.out.println("www");
+        System.out.println("www.github");
         MessageService messageService = new MessageService();
         System.out.print(messageService.getMessage());
     }
